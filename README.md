@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - I love JavaScript 💖
 - Also, interested in interactive designs 
-- Skills : React, Python, C
+- Skills : JavaScript, React, Python, C
